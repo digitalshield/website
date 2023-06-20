@@ -3,6 +3,7 @@ title: "Samin Marwarid"
 date: 2018-12-20T13:44:55+10:00
 image: "images/team/Samin-Marwarid.jpg"
 jobtitle: "Marketing Consultant"
+linkedinurl: "https://www.linkedin.com/in/samin-marwarid-975216b0/"
 weight: 4
 ---
 
