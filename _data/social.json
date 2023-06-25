@@ -1,12 +1,12 @@
 [
   {
-    "name": "Youtube",
-    "link": "Include a Youtube Link",
-    "image": "images/social/github.svg"
+    "name": "Linkedin",
+    "link": "https://www.linkedin.com/company/digital-shield-canada/",
+    "image": "images/social/linkedin.svg"
   },
   {
     "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
+    "link": "https://twitter.com/DigitalShieldCA",
     "image": "images/social/twitter.svg"
   }
 ]
